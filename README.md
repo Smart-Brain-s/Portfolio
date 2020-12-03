@@ -286,3 +286,5 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 - [Popper.js](https://popper.js.org/) - JavaScript popover library
+
+- Originally made by :- [https://github.com/cobidev](https://github.com/cobidev)
